@@ -1,0 +1,92 @@
+a {
+	color: #003b6d;
+}
+
+.bold {
+	font-weight: bold;
+}
+
+.bold-links {
+	color: #003b6d;
+	font-weight: 600;
+}
+
+.animal-landing {
+	background-color: #bdbdbd;
+	color: #003b6d;
+	border-bottom-left-radius: 60px;
+	border-bottom-right-radius: 60px;
+}
+
+.animal-landing_info {
+	margin: 0 auto;
+	text-align: center;
+}
+
+.animal-landing_info h1 {
+	padding: 1rem 0;
+}
+
+.animal-landing_info__div {
+	padding-top: 0.7rem;
+}
+
+.animal-landing_info div a {
+	text-decoration: none;
+	color: #fff;
+	background-color: #676767;
+	padding: 5px 10px;
+	font-size: 0.9rem;
+	border-radius: 50px;
+	width: 9.5rem;
+	margin: 0 auto;
+}
+
+.animal-landing_info a:hover {
+	color: #003b6d;
+}
+
+.animal-images {
+	padding-bottom: 1.7rem;
+}
+
+.animal-information {
+	margin: 0 auto;
+	color: #6699cc;
+}
+
+.animal-information div {
+	padding-bottom: 1.5rem;
+}
+
+.animal-information div h2 {
+	padding-top: 1rem;
+	text-align: center;
+}
+
+.animal-information div p {
+	text-align: center;
+	font-size: 0.9rem;
+}
+
+.animal-feeding_info {
+	margin: 0 auto;
+	color: #6699cc;
+}
+
+.animal-feeding_info__list li {
+	margin-left: 3rem;
+}
+
+.bird-relational_info__list li {
+	margin-left: 0px;
+}
+
+.animal-feeding_info h4 {
+	color: #003b6d;
+}
+
+.animal-feeding_info p {
+	font-size: 0.9rem;
+	padding-bottom: 1rem;
+}

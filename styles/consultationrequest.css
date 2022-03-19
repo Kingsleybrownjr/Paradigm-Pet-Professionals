@@ -1,0 +1,61 @@
+main {
+	display: flex;
+	justify-content: center;
+    flex-direction: column;
+	align-items: center;
+}
+
+.request-form {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	border: 2px solid #6699cc;
+	border-radius: 30px;
+	padding: 1rem 3rem;
+	color: #003b6d;
+	background-color: #bdbdbd;
+	font-size: 1rem;
+    margin-bottom: 1rem;
+}
+
+.request-form_button {
+	cursor: pointer;
+	margin-top: 10px;
+}
+
+.request-form_button a {
+	background-color: #fff;
+	border-radius: 20px;
+	padding: 3px 10px;
+	color: #6699cc;
+	font-weight: 600;
+}
+
+.request-inputs {
+	padding-bottom: 0.3rem;
+}
+
+.request-form label {
+	display: block;
+}
+
+.request-inputs input {
+	outline: 0;
+	border-radius: 5px;
+	border: none;
+	padding: 4px;
+	width: 100%;
+}
+
+.consultationrequest_landing {
+	text-align: center;
+	color: #003b6d;
+}
+
+.consultationrequest_landing p:first-of-type {
+	padding-bottom: 1rem;
+}
+
+.consultationrequest_landing p:last-of-type {
+	padding-bottom: 1rem;
+}
